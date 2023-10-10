@@ -33,8 +33,8 @@ Inicio
                   se ((jogador2 = "tesoura") e (jogador1 = "papel")) entao
                      escreval("Jogador 2 ganhou")
                   senao
+                       escreval("empate")
                   fimse
-
                fimse
             fimse
          fimse
