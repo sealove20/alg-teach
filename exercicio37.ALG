@@ -39,7 +39,7 @@ Inicio
             escreval("O novo salário é ", salarioAtual+(salarioAtual*0.05))
          senao
             se (  anosDeTrabalho >= 20) e (anosDeTrabalho < 30) entao
-               escreval("O novo salário é ", salarioAtual*0.12)
+               escreval("O novo salário é ", salarioAtual+(salarioAtual*0.12))
             senao
                se (  anosDeTrabalho > 30) entao
                   escreval("O novo salário é ", salarioAtual+(salarioAtual*0.23))
